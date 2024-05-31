@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\BFSHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E111B6A-52D4-452A-A4CD-3C2587A3C330}|BFSHomework\\BFSHomework.pyproj|C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\BFSHomework\\BFSHomework\\BFSHomework.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E111B6A-52D4-452A-A4CD-3C2587A3C330}|BFSHomework\\BFSHomework.pyproj|solutionrelative:BFSHomework\\BFSHomework.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BFSHomework.py",
+              "DocumentMoniker": "C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\BFSHomework\\BFSHomework\\BFSHomework.py",
+              "RelativeDocumentMoniker": "BFSHomework\\BFSHomework.py",
+              "ToolTip": "C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\BFSHomework\\BFSHomework\\BFSHomework.py",
+              "RelativeToolTip": "BFSHomework\\BFSHomework.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-31T18:04:42.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

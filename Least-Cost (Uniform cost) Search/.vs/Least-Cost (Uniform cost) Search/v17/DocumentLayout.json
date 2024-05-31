@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\Least-Cost (Uniform cost) Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A315F69F-86DC-4E02-AC23-543BB10C60CB}|Least-Cost (Uniform cost) Search\\Least-Cost (Uniform cost) Search.pyproj|C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\Least-Cost (Uniform cost) Search\\Least-Cost (Uniform cost) Search\\Least_Cost__Uniform_cost__Search.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A315F69F-86DC-4E02-AC23-543BB10C60CB}|Least-Cost (Uniform cost) Search\\Least-Cost (Uniform cost) Search.pyproj|solutionrelative:Least-Cost (Uniform cost) Search\\Least_Cost__Uniform_cost__Search.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Least_Cost__Uniform_cost__Search.py",
+              "DocumentMoniker": "C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\Least-Cost (Uniform cost) Search\\Least-Cost (Uniform cost) Search\\Least_Cost__Uniform_cost__Search.py",
+              "RelativeDocumentMoniker": "Least-Cost (Uniform cost) Search\\Least_Cost__Uniform_cost__Search.py",
+              "ToolTip": "C:\\Users\\firan\\Documents\\Facultate\\AI\\New folder\\Least-Cost (Uniform cost) Search\\Least-Cost (Uniform cost) Search\\Least_Cost__Uniform_cost__Search.py",
+              "RelativeToolTip": "Least-Cost (Uniform cost) Search\\Least_Cost__Uniform_cost__Search.py",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-31T18:30:40.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

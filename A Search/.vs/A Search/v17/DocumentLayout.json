@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firan\\Documents\\Facultate\\AI\\tema de casa\\A Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA444F-F0BE-4852-ACE9-2C45065C0542}|A Search\\A Search.pyproj|C:\\Users\\firan\\Documents\\Facultate\\AI\\tema de casa\\A Search\\A Search\\A_Search.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBEA444F-F0BE-4852-ACE9-2C45065C0542}|A Search\\A Search.pyproj|solutionrelative:A Search\\A_Search.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A_Search.py",
+              "DocumentMoniker": "C:\\Users\\firan\\Documents\\Facultate\\AI\\tema de casa\\A Search\\A Search\\A_Search.py",
+              "RelativeDocumentMoniker": "A Search\\A_Search.py",
+              "ToolTip": "C:\\Users\\firan\\Documents\\Facultate\\AI\\tema de casa\\A Search\\A Search\\A_Search.py",
+              "RelativeToolTip": "A Search\\A_Search.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-31T18:34:45.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
